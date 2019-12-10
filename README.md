@@ -12,3 +12,4 @@ This project can't be fully uploaded to github because it exposes the API keys w
 
 Google slides link for more info on our project: https://docs.google.com/presentation/d/1CTwS7KxbsXKkqYUYkHA6xaDnH7Bypddj-yHGlYicLMg/edit?usp=sharing
 
+There is a demo video showing me running our app simulataneously on iOS and Android on the very last slide.
