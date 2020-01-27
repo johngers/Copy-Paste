@@ -14,4 +14,4 @@ Google slides link for more info on our project: https://docs.google.com/present
 
 Demo: 
 
-![Demo Video](https://gfycat.com/idealselfishgharial)
+https://gfycat.com/idealselfishgharial
