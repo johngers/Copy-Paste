@@ -10,6 +10,8 @@ If you would like to download our entire project, you can do so here. https://dr
 
 This project can't be fully uploaded to github because it exposes the API keys we used for our project.
 
-Google slides link for more info on our project: https://docs.google.com/presentation/d/1CTwS7KxbsXKkqYUYkHA6xaDnH7Bypddj-yHGlYicLMg/edit?usp=sharing
+Google slides link for more info on our project: https://docs.google.com/presentation/d/1l-9iNq67lSo-JE8zsgn07FiGuZULPrMGL7NQ3N2xtXQ/edit?usp=sharing
 
-There is a demo video showing me running our app simulataneously on iOS and Android on the very last slide.
+Demo: 
+
+https://gfycat.com/idealselfishgharial
